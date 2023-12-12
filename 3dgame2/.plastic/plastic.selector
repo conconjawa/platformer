@@ -1,0 +1,4 @@
+repository "3dgame2@TozakiAi@cloud"
+  path "/"
+    br "/main"
+    co "/main"
